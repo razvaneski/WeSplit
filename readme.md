@@ -6,4 +6,6 @@ Simple iOS app for splitting checks, made using SwiftUI.
 
 This is my first iOS app, inspired by the "100 Days of SwiftUI" tutorials by Paul Hudson.
 
-![Screenshot](https://imgur.com/bRLRVfa)
+## Screenshot
+
+<img src="https://i.imgur.com/bRLRVfa.png" width="400">
